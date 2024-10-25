@@ -2,7 +2,15 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
-    font-size: large;
     color: darkgoldenrod;
     background-color: beige;
+}
+ul{
+    border: 2px solid rebeccapurple;
+    padding: .5em;
+}
+
+.block,
+li{
+    
 }
